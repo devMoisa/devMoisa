@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Moisés Vilas Boas, a passionate Fullstack Developer and tech enthusiast. Currently, I hold the position of Fullstack Developer at MB Labs. With an extensive 8-year journey in the industry, I've had the privilege to work on a diverse array of exciting projects and delve into a wide spectrum of cutting-edge technologies.
+I'm Moisés Vilas Boas, a passionate Backend Developer and tech enthusiast. Currently, I hold the position of Fullstack Developer at MB Labs. With an extensive 8-year journey in the industry, I've had the privilege to work on a diverse array of exciting projects and delve into a wide spectrum of cutting-edge technologies.
 
 ## 🚀 Expertise
 

@@ -1,8 +1,7 @@
 # 👋 Wassupp!
 
 I'm **Moisés Vilas Boas**, a **Senior Fullstack Engineer**, working with programming since **2017**.  
-Feel free to talk with me about:  
-**Node.js**, **React**, **React Native**, **Next.js**, **AWS**, **Git**, **Go**, and **VIM/NeoVim**.
+Feel free to talk with me about: **Node.js**, **React**, **React Native**, **Next.js**, **AWS**, **Git**, **Go**, and **VIM/NeoVim**.
 
 ## 😎 My Contributions to Open Source
 

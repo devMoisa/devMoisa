@@ -10,8 +10,3 @@ I created a simple tool to make copying the current directory easier, called **`
 If this tool can help you, feel free to install it directly from npm.
 
 👉 **[cppwd on npm](https://www.npmjs.com/package/cppwd)**
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmoisa/)  
-

@@ -7,6 +7,12 @@ Feel free to talk with me about: **Node.js**, **React**, **React Native**, **Nex
 ## 😎 My Contributions to Open Source
 
 I created a simple tool to make copying the current directory easier, called **`cppwd`**.  
-If this tool can help you, feel free to install it directly from npm.
+If this tool can help you, feel free to install it directly from npm and others.
 
-👉 **[cppwd on npm](https://www.npmjs.com/package/cppwd)**
+👉 **[Tool to Learn GOLANG](https://github.com/devMoisa/tool.runGo)**
+👉 **[Tool to DUMP Code for LLM improve contexts](https://github.com/devMoisa/tool.codeDump)**
+👉 **[Tool to Download Youtube Video Locally](https://github.com/devMoisa/tool.ytDowloader)**
+👉 **[COPY MY CURRENT DIR on npm](https://www.npmjs.com/package/cppwd)**
+👉 **[MY CUSTOM NODE_MODULES KILLER](https://github.com/devMoisa/tool.nodeModulesExterminator)**
+👉 **[GHSET - Alias to switch active github account](https://github.com/devMoisa/tool.gitHubSwitcher)**
+
